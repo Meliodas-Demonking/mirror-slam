@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "animax-store-gt",
+  "private_key_id": "64741788cc2debbb17be8c2b72385568c4f46982",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCit+rhG3Sxk5Be\nR0ylaID7R89Glhr5MTzeoEQ/HaaQaYqygsU47EM1EXMl5B57sAWLxzRkRIteCmnm\nXCK39bguIdXj1I9KUxwo5CjzWlTIxbDUggVQa0bnUTPZZ0GXEgXjNtDrxq3B+CkV\nU0OBEVUpe9QVdR5WOU6+D7/VAcD/hOTggiZsRaDfT+GOGu+N7szBRRYRBWCPE+pv\n3PLiyxsRyUQ+C9lwwG16rRbBEDRR5R2loZkLGRfbU0WRg3nS5gf8FRRGVpn8FrJF\n+S32eqfy79OI79pCfG2lU2o9NvCQFwrDVFup9RTD8JrF3D+6psIYMeiWg4iVCG45\n0Tq6vqRLAgMBAAECggEAEiBDwWzCDJAAGoh9wMVJ7PP8YoQRICY8fh5DS/adGeQv\n55/KoYMsH2rAtX1aafPbQk1gCDVcgw7M6jTkRzLPoA/z2CvTBHgKoIF+EFHFNRJU\nlu+e8OzqWpVAndyzQUVoM33lOwaIT5250d7TG7sXDgZ1wygnR3qdy21MtMk7uxrg\nu1Zd/zUEVjGa9uL6iMnHljEHUoTIhU9RlMxiHWOgDGkOdIDCODhd4zllSrqdXHaF\n4ijnfRMEEJyyACC81bwUp7ghk3MisEiq6LvDhSUXGHk3/IS0xKbVYBJBaGEt2GgV\njTBAy4jM4948ggDa9P2gt5xjvFgBCK3skzCJDAQ/SQKBgQDP9zN6omcmgRuDCCzt\nQ9/K97CW+kT/Rt/s5VvXNZemxBShjkAGiD1G8mDfn/VcIpiqmV5wjWUnlxtV8M2T\n7vGy9pj2v/DC7hygewxt4M8jF9b8qAjUd+MjqXPqOnqHLv8auR2BTPDJnwfK/C0v\nyhhafn9Cus0srw2IuXmPFXWFSQKBgQDITUt341yS+hxF9at5S1PYmnJ7Wkj6hIE+\nrBTTupr4urjvkSiQ3KyqPMpdc8JIKmS4dG8AzAXZGdCBMX11328ROmg0eRC2Vzwl\nEKFQdHehWEWew7QCSi7lxLEkth0QPP7U8Rik5R9Zg+8gvz0rQvVnbyivi7xXj68T\nHks2t0gg8wKBgApDJpUsom5x/IuQwbbLnKWFZ39rxi/arX4hK1EJYfxmvKXkQSCR\nZIS1vTYLzK3JP0Nb4h8nuxAjEsRA58QfDGpKZO34NsdHvL3mlIxvhYkzyfYZzKW/\nbMP7vq6WSCmXlhsZe21AALnSUS4hF5G+JUmB6IHAehN0Z/SRQoBfDLeRAoGAZbkz\ngZBbHF2e7Dymt/P0ggV17IVemLOge7ai4SBcwcL6VtgudNtNaSt0Tl+SpFm7Sx3+\nnbX/plEA3gvHPoyZeHNkJnnxbdkBt4Upl5V+h9cvjECxc5Q/Gvt4Rz+hpPSFKpnC\nvUOLV0e0srnMk+LuhHgkfnqFzSYwcJIq+n+8RtcCgYEAp0uQAHPf/5Ag1eGmbKId\n6WTVOUn0q2qaIgkauJUIntY3AQ3uu0+P+Wi+AuxGwCqnPORz+pGM5W1rw6RVem5A\niZItXGMsUZBkE6xZen0eEmAnZ0//+12wfUPiVrNHh4rRBTn+bhCmVQb9Xez9xRpI\nTwatzCak/Mvewzl3ubG4WHU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-xj974qq98sx686tzjuuzrqn5pi@animax-store-gt.iam.gserviceaccount.com",
+  "client_id": "112981239821474147263",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-xj974qq98sx686tzjuuzrqn5pi%40animax-store-gt.iam.gserviceaccount.com"
+}
